@@ -20,11 +20,11 @@
 
 ### :man_technologist: About Me :
 
-I'm a third year student at the University of Guelph studying Engineering Systems and Computing who is passionate to learn and experience various computer technologies.
+I'm a first-year student at Toronto Metropolitan University studying Computer Software Engineering who is passionate about learning new computer technologies and gaining new experiences.
 
-- I worked as a Low-Code Application Developer for my Summer 2022 Co-op.
-- Utilizing Microsoft Power Apps to create useful applications for businesses.
-- Currecntly self-studying React.js and Full Stack Development.
+- I have been at Staples as a Technology Sales Associate since June 2021.
+- Utilizing Microsoft Power Apps and demonstrating in-depth knowledge of the latest technological trends, assisting clients in making informed purchasing decisions aligned with their needs.
+- Currently self-studying Python and javascript.
 
 ---
 
