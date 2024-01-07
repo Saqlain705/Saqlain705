@@ -24,7 +24,7 @@ I'm a first-year student at Toronto Metropolitan University studying Computer So
 
 - I have been at Staples as a Technology Sales Associate since June 2021.
 - Utilizing Microsoft Power Apps and demonstrating in-depth knowledge of the latest technological trends, assisting clients in making informed purchasing decisions aligned with their needs.
-- Currently self-studying Python and Javascript.
+- Currently self-studying Python, Javascript, HTML, and CSS
 
 ---
 
