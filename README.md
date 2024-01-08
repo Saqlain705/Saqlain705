@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Rjub7AIEIbXT0tzbr3/giphy.gif" width="250" />
   <div id="badges">
-  <a href= "www.linkedin.com/in/saqlain-raza-a30b40291">
+  <a href= "www.linkedin.com/in/saqlain-raza-eng">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="syedraza380@gmail.com">
