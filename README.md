@@ -20,11 +20,12 @@
 
 ### :man_technologist: About Me :
 
-I'm a first-year student at Toronto Metropolitan University studying Computer Software Engineering who is passionate about learning new computer technologies and gaining new experiences.
+I'm a Second-year student at Toronto Metropolitan University studying Computer Software Engineering who is passionate about learning new computer technologies and gaining new experiences.
 
 - I have been at Staples as a Technology Sales Associate since June 2021.
 - Utilizing Microsoft Power Apps and demonstrating in-depth knowledge of the latest technological trends, assisting clients in making informed purchasing decisions aligned with their needs.
 - Currently self-studying Python, Javascript, HTML, and CSS
+- I have been taught Java and C, and currently learning C++
 
 ---
 
