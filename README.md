@@ -20,12 +20,30 @@
 
 ### :man_technologist: About Me :
 
-I'm a Second-year student at Toronto Metropolitan University studying Computer Software Engineering who is passionate about learning new computer technologies and gaining new experiences.
+## About Me
 
-- I have been at Staples as a Technology Sales Associate since June 2021.
-- Utilizing Microsoft Power Apps and demonstrating in-depth knowledge of the latest technological trends, assisting clients in making informed purchasing decisions aligned with their needs.
-- Currently self-studying Python, Javascript, HTML, and CSS
-- I have been taught Java and C, and currently learning C++
+I’m a Computer Engineering student at Toronto Metropolitan University with a strong interest in software development, integrations and solutions engineering, emerging technologies, and building practical technical skills.
+
+* 💻 Experienced with **Python, Java, JavaScript, C, C++, HTML, and CSS**
+* 🧠 Interested in **software development, artificial intelligence, cybersecurity, embedded systems, and IT infrastructure**
+* 🛠️ Currently expanding my skills through personal projects and hands-on learning
+* 🎓 Studying Computer Engineering at **Toronto Metropolitan University**
+* 💼 Over 5 years of experience in the technology industry, including technical support, IT systems, AI/ML, and technology consulting
+* ☁️ Exploring **Microsoft Azure, Power Platform, Git/GitHub, Linux, and data analytics**
+* 🚀 Always looking to learn new technologies, collaborate on projects, and gain more real-world engineering experience
+
+### Currently Learning
+
+* Advanced Python
+* C++
+* JavaScript
+* Microsoft Azure
+* Embedded systems and hardware/software integration
+
+### Interests
+
+`Software Development` • `AI & Machine Learning` • `Cybersecurity` • `Embedded Systems` • `Cloud Computing` • `Data Analytics`
+
 
 ---
 
